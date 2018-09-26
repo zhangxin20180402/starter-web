@@ -9,3 +9,5 @@ from myfeature branch too.
 Sample website with plenty of files for demos
 
 2018 GIT Training, All rights reserved
+
+Some update one emergency fixing
