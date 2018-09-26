@@ -7,3 +7,5 @@ from myfeature branch too.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+2018 GIT Training, All rights reserved
